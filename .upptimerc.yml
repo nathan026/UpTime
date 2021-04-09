@@ -23,6 +23,7 @@ sites:
 
 
 status-website:
+  theme: dark
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: EMC Upptime
