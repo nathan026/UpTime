@@ -27,12 +27,14 @@ status-website:
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: EMC uptime monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /Upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
