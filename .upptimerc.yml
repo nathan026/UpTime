@@ -4,21 +4,33 @@ repo: Upptime
 
 # Add your sites here
 sites:
-  - name: EMC AU2
+  - name: ezimanager.gapsolutions.com.au
+    url: https://ezimanager.gapsolutions.com.au
+  - name: login.ezimanager.cloud
+    url: https://login.ezimanager.cloud
+  - name: express.ezimanager.cloud
+    url: https://express.ezimanager.cloud
+  - name: gap4.ezimanager.cloud
+    url: https://gap4.ezimanager.cloud
+  - name: metcash.gapsolutions.com.au
+    url: https://metcash.gapsolutions.com.au
+  - name: au2.ezimanager.cloud
     url: https://au2.ezimanager.cloud
-  - name: EMC AU3
+  - name: au3.ezimanager.cloud
     url: https://au3.ezimanager.cloud
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: ezi-rewards.net
+    url: https://https://ezirewards.net
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
+#  - name: Broken Site
+#    url: https://thissitedoesnotexist.com
+#  - name: Test for HEAD
+#    method: HEAD
+#    url: https://www.google.com
+#  - name: Secret Site
+#    url: $SECRET_SITE
+#  - name: TCP ping
+#    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
