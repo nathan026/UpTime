@@ -13,13 +13,13 @@ sites:
   - name: gap4.ezimanager.cloud
     url: https://gap4.ezimanager.cloud
   - name: metcash.gapsolutions.com.au
-    url: https://metcash.gapsolutions.com.au
+    url: https://metcash.ezimanager.cloud
   - name: au2.ezimanager.cloud
     url: https://au2.ezimanager.cloud
   - name: au3.ezimanager.cloud
     url: https://au3.ezimanager.cloud
   - name: ezi-rewards.net
-    url: https://https://ezirewards.net
+    url: https://ezirewards.net/
 
 
 status-website:
