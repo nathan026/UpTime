@@ -17,7 +17,10 @@ sites:
     url: https://metcash.ezimanager.cloud
     icon: https://au2.ezimanager.cloud/favicon.ico
   - name: au2.ezimanager.cloud
-    url: https://au2.ezimanager.cloud
+    url: https://au2.ezimanager.cloud/api/speed
+    headers:
+      - "Authorizartion: Basic dGVzdEBhd3M6TGV0bWVpbm5vdzE="
+      - "Content-Type: application/json"
   - name: au3.ezimanager.cloud
     url: https://au3.ezimanager.cloud
   - name: ezi-rewards.net
