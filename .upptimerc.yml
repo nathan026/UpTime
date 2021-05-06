@@ -7,7 +7,7 @@ sites:
   - name: ezimanager.gapsolutions.com.au
     url: https://ezimanager.gapsolutions.com.au
   - name: login.ezimanager.cloud
-    url: https://login.ezimanager.cloud
+    url: https://login.ezimanager.cloud/api/speed
     headers:
       - "Authorizartion: Basic Z2FwQGdhcHNvbHV0aW9ucy5jb20uYXU6TGV0bWVpbm5vdzE="
       - "Content-Type: application/json"
