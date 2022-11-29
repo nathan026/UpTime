@@ -130,17 +130,17 @@
     "url": "https://ezirewards.net/",
     "icon": "https://favicons.githubusercontent.com/ezirewards.net",
     "slug": "ezi-rewards-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 888,
-    "timeWeek": 976,
-    "timeMonth": 984,
-    "timeYear": 1005,
+    "time": 1026,
+    "timeDay": 3034,
+    "timeWeek": 1501,
+    "timeMonth": 1124,
+    "timeYear": 1059,
     "dailyMinutesDown": {}
   }
 ]
